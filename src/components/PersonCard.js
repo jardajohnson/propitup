@@ -6,7 +6,7 @@ class PersonCard extends Component {
 		return (
 			<div>
 				<h1>
-					{firstName}, {lastName}
+					{lastName}, {firstName}
 				</h1>
 				<p>Age: {age}</p>
 				<p>Hair Color: {hairColor}</p>
